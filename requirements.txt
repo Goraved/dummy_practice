@@ -10,16 +10,19 @@ filelock
 futures
 identify
 idna
+imageai
 importlib-metadata
 importlib-resources
 joblib
 jupyter
 jupyterlab
+keras
 lxml
 matplotlib
 nodeenv
 numpy
 oauthlib
+opencv-python
 packaging
 pandas
 Pillow
@@ -41,6 +44,7 @@ seaborn
 six
 sklearn
 soupsieve
+tensorflow
 toml
 tox
 translate
